@@ -10,6 +10,8 @@ an even backlight from a row of LEDs, and a 3D-printed base hides the board, bat
 
 A two-layer, all through-hole PCB designed in KiCad so it can be soldered by hand.
 
+![Bare Lithophane Light Box PCBs, fresh from fabrication](images/board.jpeg)
+
 | Qty | Part | Footprint |
 | --- | --- | --- |
 | 25 | 5 mm LED | LED_D5.0mm |
